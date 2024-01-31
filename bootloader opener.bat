@@ -2,7 +2,7 @@ title Android Bootloader Opener Made By Jimputin
 echo off
 cd c:/platform-tools
 cls
-echo Welcome To Bootloader Opener
+echo Welcome To Bootloader Opener!
 echo IF YOU DID NOT ALREADY TRHOW platform-tools FOLDER ALREADY ON YOUR C DRIVE DO IT NOW
 echo AND DONT CHANGE THE FOLDER NAME
 pause
@@ -22,7 +22,7 @@ pause
 
 echo WARNING THIS REMOVES ALL DATA FROM YOUR PHONE!!!!!!!!!!!!!!
 pause
-echo ARE YOU SURE THAT YOU WANT TO CONTINUE
+echo ARE YOU SURE THAT YOU WANT TO CONTINUE??
 cls
 pause
 
